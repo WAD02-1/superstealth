@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<level>
+
+  <player>
+    <x>0</x>
+    <y>0</y>
+  </player>
+
+  <tiles>
+    <tile type="wall">
+      <x>1</x>
+      <y>1</y>
+    </tile>
+  </tiles>
+
+  <enemies>
+    <enemy>
+      <type>standing</type>
+      <x>1</x>
+      <y>2</y>
+      <start_direction>0</start_direction>
+    </enemy>
+  </enemies>
+
+</level>
